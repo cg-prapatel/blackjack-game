@@ -1,6 +1,8 @@
 # blackjack-game
 simple blackjack game - player and dealer(computer) - played at command prompt - (This was program was part of my python programming assignment)
 
+To run the game you need to open command prompt and then type - python assignment_5_bonus.py
+
 #Blackjack / Twenty-one
 
 #The possible card values range from 1 to 10 and unlike a real
